@@ -1,0 +1,14 @@
+C:\Users\tyler\Documents\Repos\kosend\bin\Debug\net7.0\kosend.exe
+C:\Users\tyler\Documents\Repos\kosend\bin\Debug\net7.0\kosend.deps.json
+C:\Users\tyler\Documents\Repos\kosend\bin\Debug\net7.0\kosend.runtimeconfig.json
+C:\Users\tyler\Documents\Repos\kosend\bin\Debug\net7.0\kosend.dll
+C:\Users\tyler\Documents\Repos\kosend\bin\Debug\net7.0\kosend.pdb
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.AssemblyInfoInputs.cache
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.AssemblyInfo.cs
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.dll
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\refint\kosend.dll
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.pdb
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\kosend.genruntimeconfig.cache
+C:\Users\tyler\Documents\Repos\kosend\obj\Debug\net7.0\ref\kosend.dll
